@@ -1,7 +1,2 @@
 ~ToDo list
-first
-fff
-fff
-
-
-fff
+- create html for got7
